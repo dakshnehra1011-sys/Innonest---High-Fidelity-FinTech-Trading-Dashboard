@@ -1,0 +1,2 @@
+# Innonest---High-Fidelity-FinTech-Trading-Dashboard
+Developed a trading platform UI inspired by Zerodha,handling real-world financial workflows. Built modular dashboards for Holdings,Positions,and Funds with real-time updates. Implemented a JavaScript-based OMS for buy/sell orders and history,managed state using structured JSON, and designed a secure signup,login, and OTP-based user onboarding flow.
